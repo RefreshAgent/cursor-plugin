@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "refreshagent": {
+      "url": "https://refreshagent.com/mcp"
+    }
+  }
+}
