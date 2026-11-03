@@ -1,0 +1,23 @@
+{
+  "name": "refreshagent",
+  "version": "1.0.0",
+  "description": "Find and fix SEO opportunities in your codebase using original research, information gain, search diagnostics and evidence-backed implementation workflows.",
+  "author": {
+    "name": "RefreshAgent",
+    "email": "support@refreshagent.com"
+  },
+  "homepage": "https://refreshagent.com",
+  "repository": "https://github.com/RefreshAgent/cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "seo",
+    "technical-seo",
+    "content-optimization",
+    "information-gain",
+    "search-research",
+    "marketing",
+    "website-optimization"
+  ],
+  "logo": "assets/logo.svg",
+  "mcpServers": "mcp.json"
+}
